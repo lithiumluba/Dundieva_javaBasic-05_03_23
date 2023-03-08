@@ -1,6 +1,6 @@
 package coordinates;
 
-public class coordinates {
+public class Coordinates {
     public static void main(String[] args) {
         double lat = 46.4851465;
         double lon = 30.6121373;

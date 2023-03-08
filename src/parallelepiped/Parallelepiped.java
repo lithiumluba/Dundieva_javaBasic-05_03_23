@@ -1,6 +1,6 @@
 package parallelepiped;
 
-public class parallelepiped {
+public class Parallelepiped {
     public static void main(String[] args) {
         int height = 8;
         int length = 12;
