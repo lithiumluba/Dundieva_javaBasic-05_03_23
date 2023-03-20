@@ -1,4 +1,5 @@
 package dynasty;
+
 public class Dynasty {
     public static void main(String[] args) {
         int li = 860;
