@@ -27,12 +27,13 @@ public class CounterStrike {
         int teamAMid;
         int teamBSum = 0;
         int teamBMid;
-        for (int teamAFrag : teamAFrags) {
-            teamASum += teamAFrag;
+        for (int frag : teamAFrags) {
+            teamASum += frag;
         }
         teamAMid = teamASum / teamAFrags.length;
-        for (int teamBFrag : teamBFrags) {
-            teamBSum += teamBFrag;
+
+        for (int frag : teamBFrags) {
+            teamBSum += frag;
         }
         teamBMid = teamBSum / teamBFrags.length;
         if (teamASum > teamBSum) {
