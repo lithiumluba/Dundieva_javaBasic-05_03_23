@@ -2,9 +2,6 @@ package matrixTransposition;
 
 import java.util.Random;
 import java.util.Scanner;
-//Транспонуйте матрицю M x N. Розміри M та N задаються з консолі.
-// Після введення повинні автоматично створюватися два масиви розміром
-// M x N перший та N x M другий.
 
 public class MatrixTransposition {
     public static void main(String[] args) {
