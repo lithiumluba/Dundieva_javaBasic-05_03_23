@@ -2,7 +2,7 @@ package guessTheNumber;
 
 import java.util.Random;
 import java.util.Scanner;
-
+1
 public class GuessTheNumber {
     public static void main(String[] args) {
         Random rand = new Random();
